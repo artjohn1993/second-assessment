@@ -1,0 +1,19 @@
+.custom-header {
+    background-color: lightgrey;
+    padding: 20px;
+    color: white;
+}
+
+.custom-header .header-title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.custom-body {
+    margin-top: 30px;
+}
+.item-details {
+    padding-bottom: 30px!important;
+    padding-top: 20px!important;
+}
+
